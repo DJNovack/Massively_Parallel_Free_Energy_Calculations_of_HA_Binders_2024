@@ -1,0 +1,16 @@
+-in:ignore_unrecognized_res true
+-in:file:fullatom true
+-out:level 300
+-out:chname true
+-out:chtimestamp true
+-out:save_times true
+-run:checkpoint true
+-run:version true
+-run:ignore_zero_occupancy false
+-packing:extrachi_cutoff 18
+-packing:ex1 true
+-packing:ex2 true
+-parser:protocol /home/kpman/.cache/Python-Eggs/RosettaDDGPrediction-0.0.1-py3.11.egg-tmp/RosettaDDGPrediction/RosettaScripts/Flex_ddG.xml
+-parser:script_vars chaintomove=B resfile=mutation.resfile ddgdbfile=ddg.db3 structdbfile=struct.db3 backrubntrials=35000 backrubtrajstride=7000 scfname=talaris2014
+-corrections:restore_talaris_behavior true
+-in:file:s /home/kpman/git/HA-binders-SSM/data/structures/A8_dry.pdb

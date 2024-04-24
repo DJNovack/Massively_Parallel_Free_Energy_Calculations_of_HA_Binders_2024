@@ -8,15 +8,18 @@ data:
 Figures:
 
     Figure 3:
-        Alchemical_number - Fig. 3 /SI.1 
-        Charge_change - Fig. 3 /SI.2 
-        uncertainty_analysis - Fig.3 
+        Alchemical_number - Fig. 3 /Supplementary Fig. 1 
+        Charge_change - Fig. 3 /Supplementary Fig. 2 
+        uncertainty_analysis -Supplementary Fig. 3 
 
     Figure 6:
         scatter_and_heatmaps - Fig. 6
 
     Figure 7:
         scatter_and_heatmaps - Fig. 7
+
+    Figure 8:
+        MCC_Conf - Fig. 8/Supplementary Fig. 3
 
     Figure 9:
         Avg_Effects - Fig.9

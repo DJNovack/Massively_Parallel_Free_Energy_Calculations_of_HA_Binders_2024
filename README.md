@@ -7,7 +7,7 @@ data:
 Figures:
 
 Figure 3:\\
-Alchemical_number - Fig. 3 /SI.1 \\ 
+Alchemical_number - Fig. 3 /SI.1 \n
 Chage_change - Fig. 3 /SI.2 \\ 
 uncertainty_analysis - Fig.3 \\ 
 

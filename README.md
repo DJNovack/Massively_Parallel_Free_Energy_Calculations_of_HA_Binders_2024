@@ -7,9 +7,9 @@ data:
 Figures:
 
 Figure 3:\\
-Alchemical_number - Fig. 3 /SI.1\\ 
-Chage_change - Fig. 3 /SI.2\\ 
-uncertainty_analysis - Fig.3\\ 
+Alchemical_number - Fig. 3 /SI.1 \\ 
+Chage_change - Fig. 3 /SI.2 \\ 
+uncertainty_analysis - Fig.3 \\ 
 
 Figure 6:
 scatter_and_heatmaps - Fig. 6

@@ -3,15 +3,17 @@ This repository has most of the data and scripts that are necesarry to reproduce
 
 Contents:
 
-data:
+data: Contains most of the data to reproduce figures from XXXX. Additional data for Figures YYYY can be found here ->
 
-Figures:
+Figures: These directories contain ipython notebooks to reproduce figure images from XXX, as well as having copies of figure images in them.
 
     Figure 3:
         Alchemical_number - Fig. 3 /Supplementary Fig. 1 
         Charge_change - Fig. 3 /Supplementary Fig. 2 
         uncertainty_analysis -Supplementary Fig. 3 
-
+    Figure 5:
+        Bayesian_Kds - Fig. 5
+    
     Figure 6:
         scatter_and_heatmaps - Fig. 6
 

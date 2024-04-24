@@ -30,5 +30,5 @@ Figures: These directories contain ipython notebooks to reproduce figure images 
         Affinity_maturation - fig. 10
 
     SI:
-        Contact_Maps - SI.3-SI.5
+        Contact_Maps - Supplementary Fig. 3 - Supplementary Fig. 5
         SI_simulated_tempering - 

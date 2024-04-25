@@ -29,4 +29,4 @@ Figures: These directories contain ipython notebooks to reproduce figure images 
    * SI:
        * Contact_Maps - Supplementary Fig. 3 - Supplementary Fig. 5
        * SI_simulated_tempering - Supplementary Fig. 8
-       * laplacian_centrality - Supplementary Fig. 9-10
+       * laplacian_centrality - Supplementary Fig. 9-10 Additional files can be found at https://osf.io/sj6mr/

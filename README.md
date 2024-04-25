@@ -6,29 +6,24 @@ Contents:
 data: Contains most of the data to reproduce figures from XXXX. Additional data for Figures YYYY can be found here ->
 
 Figures: These directories contain ipython notebooks to reproduce figure images from XXX, as well as having copies of figure images in them.
-
-    Figure 3:
-        Alchemical_number - Fig. 3 /Supplementary Fig. 1 
-        Charge_change - Fig. 3 /Supplementary Fig. 2 
-        uncertainty_analysis -Supplementary Fig. 3 
-    Figure 5:
-        Bayesian_Kds - Fig. 5
-    
-    Figure 6:
-        scatter_and_heatmaps - Fig. 6
-
-    Figure 7:
-        scatter_and_heatmaps - Fig. 7
-
-    Figure 8:
-        MCC_Conf - Fig. 8/Supplementary Fig. 3
-
-    Figure 9:
-        Avg_Effects - Fig.9
-
-    Figure 10:
-        Affinity_maturation - fig. 10
-
-    SI:
-        Contact_Maps - Supplementary Fig. 3 - Supplementary Fig. 5
-        SI_simulated_tempering - 
+  * Figure 3:
+       * Alchemical_number - Fig. 3 /Supplementary Fig. 1 
+       * Charge_change - Fig. 3 /Supplementary Fig. 2 
+       * uncertainty_analysis -Supplementary Fig. 3 
+   * Figure 4: Additional files can be found at XXXX
+       * ITS - Fig.4/Supplementary Fig, X
+   * Figure 5:
+       * Bayesian_Kds - Fig. 5
+   * Figure 6:
+       * scatter_and_heatmaps - Fig. 6
+   * Figure 7:
+       * scatter_and_heatmaps - Fig. 7
+   * Figure 8:
+       * MCC_Conf - Fig. 8/Supplementary Fig. 3
+   * Figure 9:
+       * Avg_Effects - Fig.9
+   * Figure 10:
+       *  Affinity_maturation - fig. 10
+   * SI:
+       * Contact_Maps - Supplementary Fig. 3 - Supplementary Fig. 5
+       *  SI_simulated_tempering - 

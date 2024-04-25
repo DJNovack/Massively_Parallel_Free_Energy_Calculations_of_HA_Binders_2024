@@ -24,6 +24,8 @@ Figures: These directories contain ipython notebooks to reproduce figure images 
        * Avg_Effects - Fig.9
    * Figure 10:
        *  Affinity_maturation - fig. 10
+   * Figure 11: Additional files can be found at XXXX
+       * multimutand - Fig.11/Supplentary Fig. 10  
    * SI:
        * Contact_Maps - Supplementary Fig. 3 - Supplementary Fig. 5
        *  SI_simulated_tempering - 

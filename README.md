@@ -28,4 +28,4 @@ Figures: These directories contain ipython notebooks to reproduce figure images 
        * multimutand - Fig.11/Supplentary Fig. 10  
    * SI:
        * Contact_Maps - Supplementary Fig. 3 - Supplementary Fig. 5
-       *  SI_simulated_tempering - 
+       *  SI_simulated_tempering - Supplementary Fig. 8

@@ -1,5 +1,5 @@
 # Massively_Parallel_Free_Energy_Calculations_of_HA_Binders_2024
-This repository has most of the data and scripts that are necesarry to reproduce analysis and figures in  [Novack, D.; Zhang, S.; Voelz, V. A. Massively Parallel Free Energy Calculations for in Silico Affinity Maturation of Designed Miniproteins. bioRxiv May 18, 2024, p 2024.05.17.594758.](https://doi.org/10.1101/2024.05.17.594758). Additional data needed can be found at https://osf.io/sj6mr/. The jupyter notebooks in each folder will reproduce the publication figures atated below.
+This repository has most of the data and scripts that are necesarry to reproduce analysis and figures in  [Novack, D.; Zhang, S.; Voelz, V. A. Massively Parallel Free Energy Calculations for in Silico Affinity Maturation of Designed Miniproteins. bioRxiv May 18, 2024, p 2024.05.17.594758.](https://doi.org/10.1101/2024.05.17.594758). Additional data needed can be found at https://osf.io/sj6mr/. The jupyter notebooks in each folder will reproduce the publication figures stated below.
 
 Contents:
 

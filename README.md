@@ -3,7 +3,7 @@ This repository has most of the data and scripts that are necesarry to reproduce
 
 Contents:
 
-data: Contains most of the data to reproduce figures from XXXX. Additional data for Figures YYYY can be found here -> https://osf.io/sj6mr/
+data: Contains most of the data to reproduce figures from [Novack, D.; Zhang, S.; Voelz, V. A. Massively Parallel Free Energy Calculations for in Silico Affinity Maturation of Designed Miniproteins. bioRxiv May 18, 2024, p 2024.05.17.594758.](https://doi.org/10.1101/2024.05.17.594758). Additional data for Figures YYYY can be found here -> https://osf.io/sj6mr/
 
 Figures: These directories contain ipython notebooks to reproduce figure images from XXX, as well as having copies of figure images in them.
   * Figure 3:
